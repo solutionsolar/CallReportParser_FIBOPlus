@@ -165,4 +165,4 @@ Contributions are welcome!
 4. Submit a pull request describing your changes, motivation and implications
 
 ## 📝 License  
-Please specify your chosen license (e.g., MIT, Apache‑2.0) and include a LICENSE file in root.
+MIT
