@@ -1,0 +1,5 @@
+{
+  "name": "FIBO Ontology Extractor",
+  "description": "An application to upload a PDF document, extract its text, and apply the Financial Industry Business Ontology (FIBO) using Gemini to identify key financial concepts, entities, and relationships.",
+  "requestFramePermissions": []
+}
